@@ -1,1 +1,4 @@
 # OC-EFI-Laptop
+This is my EFI folder designed for the OpenCore bootloader, intended for booting Apple's MacOS on non-Apple hardware similar to my own. Please refrain from using this EFI folder for your system, as even minor hardware disparities may render it unbootable. Furthermore, variations in hardware revisions can significantly affect the performance and compatibility of your system.
+
+I am sharing this EFI folder for display and backup purposes only. While you may choose to use it as a foundation for your own setup, I strongly advise against doing so. Operating a Hackintosh involves inherent risks, and you should proceed with caution. You have been duly cautioned.
